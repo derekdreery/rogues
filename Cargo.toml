@@ -1,0 +1,11 @@
+[package]
+name = "rogues"
+version = "0.1.0"
+authors = ["Richard Dodd <richard.o.dodd@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+termbuffer = "0.1"
+rand = "0.6.1"
+num-traits = "0.2.6"
+backtrace = "0.3.13"
